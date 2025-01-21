@@ -10,6 +10,7 @@ Install the required dependencies using the following command:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Usage
 
@@ -34,3 +35,4 @@ print(f"Random Forest Prediction: {prediction}")
 classifier = DigitClassifier(algorithm='rand')
 prediction = classifier.predict(image)
 print(f"Random Prediction: {prediction}")
+```
