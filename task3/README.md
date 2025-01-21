@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```python
-from digit_classifier import DigitClassifier
+from digits_classifier import DigitClassifier
 import numpy as np
 
 # Create random 28x28 image
